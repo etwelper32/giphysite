@@ -1,0 +1,68 @@
+h1 {
+    position: absolute;
+    font-family:sans-serif ;
+    left: 650px;
+    top: 0px;
+    color:darkmagenta
+}
+h2 {
+    position: absolute;
+    font-family:sans-serif;
+    font-size:smaller;
+    left: 200px;
+    top: 215px;
+    color:darkmagenta
+}
+h3 {
+    position: absolute;
+    font-family:sans-serif;
+    font-size:smaller;
+    left: 200px;
+    top: 275px;
+    inline-size: 175px;
+    color:darkmagenta
+}
+h4 {
+    position: absolute;
+    font-family:sans-serif;
+    font-size:medium;
+    left: 610px;
+    top: 545px;
+    color:darkmagenta
+}
+p{
+    position: absolute;
+    font-family:sans-serif;
+    left:500px;
+    top: 550px;
+    color:darkmagenta
+}
+body {
+    background-color: #ccc;
+}
+#input_btn {
+    font-family:sans-serif;
+    position: absolute;
+    left: 400px;
+    top: 250px;
+    background-color: darkmagenta;
+    color: white;
+}
+#boxx {
+    position: absolute;
+    left: 200px;
+    top: 250px;
+}
+#random_btn {
+    position: absolute;
+    left: 400px;
+    top: 285px;
+    background-color: darkmagenta;
+    color: white;
+}
+
+#gif_output {
+    position: absolute;
+    left: 500px;
+    top: 75px;
+}
